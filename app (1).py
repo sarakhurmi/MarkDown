@@ -10,7 +10,7 @@ import streamlit as st
 from markitdown import MarkItDown
 
 # ---------- Settings you can change ----------
-APP_OWNER = "Your Name"   # Put your own name here
+APP_OWNER = "Sara khurmi"   # Put your own name here
 MAX_MB = 10               # Files bigger than this are skipped
 PREVIEW_CHARS = 20000     # How much text to show in the Preview tab
 FILE_TYPES = ["pdf", "docx", "pptx", "xlsx", "xls", "csv",
